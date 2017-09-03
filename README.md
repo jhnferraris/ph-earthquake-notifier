@@ -2,7 +2,7 @@
 
 # Concept
 
-As of this development Philippines is preparing for "The Big One". Earthquakes with magnitude ranging from 2.8 to 3.8 are being experienced in the past months of the 2 years, no quick information is being sent to its citizens. 
+As of this development Philippines is preparing for "The Big One". Whenever earthquakes happen, no quick information is being sent to its citizens. 
 
 This simple node applications aims to solve this problem. This parses the [earthquake bulletin](http://www.phivolcs.dost.gov.ph/html/update_SOEPD/EQLatest.html) of PHILVOCS and notifies registered phone numbers that an earthquake has struck from a specific area. Magnitude thresholds can be set in your application's environment variables.
 
